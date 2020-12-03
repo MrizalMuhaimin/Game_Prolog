@@ -8,24 +8,24 @@ Sebuah project permaian survival yang dibuat untuk memenuhi tugas besar matakuli
 [Hal Lain yang Menarik Dibahas](#hal-lain-yang-menarik-dibahas)\
 
 ## Daftar Command
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%                                                                              %
-% 1. start.        : untuk memulai petualanganmu                               %
-% 2. map.          : menampilkan peta                                          %
-% 3. status.       : menampilkan kondisimu terkini                             %
-% 4. w.            : gerak ke utara 1 langkah                                  %
-% 5. s.            : gerak ke selatan 1 langkah                                %
-% 6. d.            : gerak ke ke timur 1 langkah                               %
-% 7. a.            : gerak ke barat 1 langkah                                  %
-% 9. shop.         : masuk kedalam toko                                        %
-% 10.start_quest.  : meminta misi                                              %
-% 11.current_quest.: melihat list misi                                         %
-% 12.run.          : lari dari musuh dan ada kemungkinan gagal                 %
-% 13.attack.       : melawan musuh dengan serangan biasa                       %
-% 14.specialAttack.: melawan musuh dengan mengunakan kemanpuan spesial         %
-% 15.help.         : menampilkan segala bantuan                                %
-%                                                                              %
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+1. start.        : untuk memulai petualanganmu                              
+2. map.          : menampilkan peta                                        
+3. status.       : menampilkan kondisimu terkini                         
+4. w.            : gerak ke utara 1 langkah                               
+5. s.            : gerak ke selatan 1 langkah                           
+6. d.            : gerak ke ke timur 1 langkah
+7. a.            : gerak ke barat 1 langkah
+9. shop.         : masuk kedalam toko                                 
+10.start_quest.  : meminta misi                                        
+11.current_quest.: melihat list misi                                        
+12.run.          : lari dari musuh dan ada kemungkinan gagal              
+13.attack.       : melawan musuh dengan serangan biasa                    
+14.specialAttack.: melawan musuh dengan mengunakan kemanpuan spesial       
+15.help.         : menampilkan segala bantuan                               
+ 
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 ## Menjalankan Program
 pindah ke directory yang sesuai dengan file berada
